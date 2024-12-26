@@ -1,5 +1,5 @@
 # Designing a Beam for a Commercial Building (Analysis Efforts)
-
+## By Ailton Santos
 The program enables:
 1. **Calculating reactions at the supports** to ensure the beam's static equilibrium.
 2. **Generating shear force and bending moment diagrams,** critical for identifying maximum stress locations.
