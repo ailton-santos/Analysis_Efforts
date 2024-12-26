@@ -6,6 +6,8 @@ The program enables:
 3. **Evaluating the beam's deflection** to ensure deformations are within code limits.
 4. **Analyzing maximum normal stresses** to verify the integrity of the chosen material.
 
+   <img src="https://github.com/ailton-santos/Analysis_Efforts/blob/main/Reinforced_Beams.jpg" alt="Reinforced Beams">
+
 **Visualization and Interpretation:**
 - The engineer uses interactive plots to quickly identify critical points.
 - The combined plot provides a consolidated overview, useful for project team meetings or client presentations.
